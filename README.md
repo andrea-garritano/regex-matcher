@@ -1,2 +1,3 @@
-# regex-matcher
-Semplice atcher di espressioni regolari
+# Semplice Matcher di espressioni regolari
+
+Realizzato per il corso di Theoretical Computer Science
