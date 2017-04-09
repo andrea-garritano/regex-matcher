@@ -1,0 +1,14 @@
+((a*)(b((a+b)*)))
+aaaaaaaa
+aaabaaaa
+baaaaa
+bb
+aaaaaaab
+aaaaaabaaaaabaaaaabaaaa
+bba
+
+aba
+aaab
+bbbbbbbbb
+aaaaa
+a
